@@ -1,4 +1,4 @@
-# Nerdy-Gurdy-manual-capo-system
+# Nerdy-Gurdy manual capo system
 
 STL View
 
