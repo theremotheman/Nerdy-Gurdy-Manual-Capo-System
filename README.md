@@ -16,12 +16,19 @@ Nerdy Gurdy manual capo system - to be used with my rail system. Use lever from 
 # Print Settings
 
 Printer Brand: Wanhao
+
 Printer: Wanhao Duplicator i3 V2
+
 Rafts: No
+
 Supports: No
+
 Resolution: 0.15
+
 Infill: 100
+
 Filament_brand: 3DActive
+
 Filament_material: PLA
 
 Notes: 
